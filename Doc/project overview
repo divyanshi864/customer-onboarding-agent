@@ -1,0 +1,18 @@
+1. Project Overview
+Project Name:
+
+IntelliOnboard – AI-Powered Personalized Onboarding System
+
+Objective:
+
+Build a Retrieval-Augmented Generation (RAG) system that:
+
+Compresses product documentation
+
+Stores user profiles
+
+Retrieves relevant content
+
+Personalizes onboarding dynamically
+
+Generates adaptive learning paths
